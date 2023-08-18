@@ -7,7 +7,9 @@
 5. Make a pull request on from your Github repo
 6. Code will be reveiwed and merged if no issues
 7. Team will be informed of new merge and pull recent changes from upstream
-=======
-GitHub is a walk in the park!
+
+**GitHub is a walk in the park!**
 
 Checking what happens if changes are made mid feature
+
+
