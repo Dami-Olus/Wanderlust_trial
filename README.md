@@ -10,6 +10,6 @@
 
 **GitHub is a walk in the park!**
 
-Checking what happens if changes are made mid feature
+# Checking what happens if changes are made mid feature
 
-
+THis is more difficult than I thought
