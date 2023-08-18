@@ -9,3 +9,5 @@
 7. Team will be informed of new merge and pull recent changes from upstream
 =======
 GitHub is a walk in the park!
+
+Checking what happens if changes are made mid feature
